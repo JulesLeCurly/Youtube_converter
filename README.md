@@ -1,4 +1,3 @@
-```markdown
 # YouTube Converter
 
 This Python script allows you to download audio from YouTube videos or playlists and convert them into MP3 format. It leverages libraries such as `pytube` for downloading videos, `moviepy` for audio conversion, and `youtubesearchpython` for searching videos by name.
