@@ -1,8 +1,8 @@
 import sys
 
 try:
-    from pytube import YouTube
-    from pytube import Playlist
+    from pytubefix import YouTube
+    from pytubefix import Playlist
     from moviepy.editor import AudioFileClip
     from youtubesearchpython import VideosSearch
     import os
